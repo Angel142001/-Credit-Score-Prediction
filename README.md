@@ -1,2 +1,2 @@
 # -Credit-Score-Prediction
-This project aims to predict credit scores using machine learning to assess an individual's creditworthiness based on financial and personal details. The goal is to create a classification model that predicts high or low credit scores, helping financial institutions evaluate loan eligibility and make informed credit decisions.
+This project focuses on predicting credit scores using machine learning to assess an individual's creditworthiness based on financial and personal details. The objective is to build a classification model that predicts whether a person is likely to have a high or low credit score, which is essential for financial institutions in loan eligibility assessment.
